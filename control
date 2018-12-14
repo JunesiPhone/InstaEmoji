@@ -1,0 +1,11 @@
+Package: com.junesiphone.instaemoji
+Name: InstaEmoji
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Hide instagram emoji list
+Maintainer: June <junesgraphics@gmail.com>
+Author: JunesiPhone <junesgraphics@gmail.com>
+Section: Addons (Tweaks)
+Depiction: http://www.junesiphone.com/supersecret/depiction.php?iframe=depiction/instaemoji
+tag: cydia::paid
